@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9f46f45c1ea4e01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6144e95c9c28b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbc7e90859628ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5743a669073d7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOPS/OOPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c10fef6475ee46ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEGGINER/01 Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8329261c51eac20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEGGINER/02 String Manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caa43ffa66d3c546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEGGINER/03 Input and print.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04af47afcdc3f10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEGGINER/04 Variable naming rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7372f256c82315fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEGGINER/args and kwargs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5acd81845f177de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ec90e5a865701cf6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "12326fbdb3f343f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a69974493c50a9ed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a7cf6ba98522bd68",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "541c7d41dadcd929",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e319a960dad0a870",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "BEGGINER/args and kwargs.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dbd4921fc1ec77e0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "BEGGINER/args and kwargs.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "47c7a836506d6215",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "BEGGINER/args and kwargs.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec90e5a865701cf6",
+  "lastOpenFiles": [
+    "BEGGINER/02 String Manipulation.md",
+    "BEGGINER/01 Variables.md",
+    "OOPS/OOPS.md",
+    "05.md",
+    "BEGGINER/args and kwargs.md",
+    "BEGGINER/54.md",
+    "BEGGINER/53.md",
+    "BEGGINER/52.md",
+    "BEGGINER/51.md",
+    "BEGGINER/50.md",
+    "BEGGINER/49.md",
+    "BEGGINER/48.md",
+    "BEGGINER/47.md",
+    "BEGGINER/46.md",
+    "BEGGINER/45.md",
+    "BEGGINER/44.md",
+    "BEGGINER/43.md",
+    "BEGGINER/42.md",
+    "BEGGINER/41.md",
+    "BEGGINER/40.md",
+    "BEGGINER/39.md",
+    "BEGGINER/38.md",
+    "BEGGINER/37.md",
+    "BEGGINER/36.md",
+    "BEGGINER/35.md",
+    "BEGGINER/34.md",
+    "Untitled",
+    "BEGGINER",
+    "OOPS",
+    "PYTHON PROGRAMMING NOTES.pdf",
+    "Python Notes.pdf",
+    "mementopython3-english.pdf"
+  ]
+}
