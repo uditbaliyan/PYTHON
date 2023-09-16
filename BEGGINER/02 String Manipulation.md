@@ -56,4 +56,3 @@ Here are some common string manipulation techniques:
    print(new_sentence)  # Output: "This is a sample sentence."
    ```
 
-These are some of the fundamental string manipulation techniques in Python. They provide you with the tools needed to work with textual data effectively. Let me know if you'd like further clarification on any of these techniques!

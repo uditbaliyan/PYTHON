@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "fd7cc90eae9be9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9260ec08ee75d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7621a6a9d29e0e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERMEDIATE/54 Hosting python code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cfd1b4520ddd30",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PYTHON PROGRAMMING NOTES.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a9083ca2783de5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd231640a9f7d3f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34727fd672adb96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96e21a9c32e3e521",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f10f97ec92fb843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "121526dcbb99adc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "75289a681455c89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc0fe347b825225",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PYTHON PROGRAMMING NOTES.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "084af4037c39d3dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PYTHON PROGRAMMING NOTES.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f7eb7f947148f22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9304338d753c9a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PYTHON PROGRAMMING NOTES.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73cfd1b4520ddd30",
+  "lastOpenFiles": [
+    "Python Notes.pdf",
+    "INTERMEDIATE+/00 INTERMEDIATE+ TOPICS.md",
+    "INTERMEDIATE+/60 BASIC Bootstrap.md",
+    "INTERMEDIATE/54 Hosting python code.md",
+    "INTERMEDIATE/53 Date time module.md",
+    "INTERMEDIATE/52 Sending emails.md",
+    "INTERMEDIATE+/56 API Authentication in Python.md",
+    "mementopython3-english.pdf",
+    "INTERMEDIATE+/59 JAVASCRIPT.md",
+    "INTERMEDIATE+/58 CSS.md",
+    "INTERMEDIATE+/57 HTML.md",
+    "INTERMEDIATE/24 INTERMEDIATE Topics.md",
+    "INTERMEDIATE+/55 API'S.md",
+    "INTERMEDIATE+",
+    "BEGGINER/02 String Manipulation.md",
+    "OOPS/OOPS.md",
+    "OOPS/102.md",
+    "BEGGINER/01 Variables.md",
+    "BEGGINER/18 Dictionaries.md",
+    "BEGGINER/07 Type conversion.md",
+    "BEGGINER/07.md",
+    "INTERMEDIATE/50 Handling JSON format.md",
+    "INTERMEDIATE/42 Reading and writing CSV (Comma-Separated Values).md",
+    "INTERMEDIATE/43 BASIC PANDAS.md"
+  ]
+}
