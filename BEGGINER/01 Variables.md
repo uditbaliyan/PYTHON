@@ -2,6 +2,12 @@ In Python, a variable is a name that refers to a value stored in memory. These v
 
 Here's how you can create a variable in Python:
 
+
+
+
+
+
+
 ```python
 # Example 1: Integer Variable
 x = 10
