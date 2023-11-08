@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab9260ec08ee75d7",
+        "id": "d1fcdcc327b09b65",
         "type": "tabs",
         "children": [
           {
-            "id": "7621a6a9d29e0e6a",
+            "id": "9c053a6ca1460f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERMEDIATE/54 Hosting python code.md",
+                "file": "BEGGINER/05 Mathematical operations.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "73cfd1b4520ddd30",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PYTHON PROGRAMMING NOTES.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON PROGRAMMING NOTES.pdf",
+                "file": "BEGGINER/05 Mathematical operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON PROGRAMMING NOTES.pdf",
+                "file": "BEGGINER/05 Mathematical operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON PROGRAMMING NOTES.pdf"
+                "file": "BEGGINER/05 Mathematical operations.md"
               }
             }
           }
@@ -157,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73cfd1b4520ddd30",
+  "active": "9c053a6ca1460f1e",
   "lastOpenFiles": [
+    "BEGGINER/04 Variable naming rules.md",
+    "BEGGINER/03 Input and print.md",
+    "BEGGINER/02 String Manipulation.md",
+    "BEGGINER/01 Variables.md",
+    "INTERMEDIATE/54 Hosting python code.md",
+    "PYTHON PROGRAMMING NOTES.pdf",
     "Python Notes.pdf",
     "INTERMEDIATE+/00 INTERMEDIATE+ TOPICS.md",
     "INTERMEDIATE+/60 BASIC Bootstrap.md",
-    "INTERMEDIATE/54 Hosting python code.md",
     "INTERMEDIATE/53 Date time module.md",
     "INTERMEDIATE/52 Sending emails.md",
     "INTERMEDIATE+/56 API Authentication in Python.md",
@@ -173,10 +167,8 @@
     "INTERMEDIATE/24 INTERMEDIATE Topics.md",
     "INTERMEDIATE+/55 API'S.md",
     "INTERMEDIATE+",
-    "BEGGINER/02 String Manipulation.md",
     "OOPS/OOPS.md",
     "OOPS/102.md",
-    "BEGGINER/01 Variables.md",
     "BEGGINER/18 Dictionaries.md",
     "BEGGINER/07 Type conversion.md",
     "BEGGINER/07.md",

@@ -1,5 +1,5 @@
 
-PythonAnywhere is an online platform that allows you to run Python code in the cloud without the need for local installation. It provides a web-based IDE and hosting environment, making it convenient for running and sharing Python projects. Here's how you can host Python code online with PythonAnywhere:
+Python Anywhere is an online platform that allows you to run Python code in the cloud without the need for local installation. It provides a web-based IDE and hosting environment, making it convenient for running and sharing Python projects. Here's how you can host Python code online with Python Anywhere:
 
 ### 1. **Create an Account:**
 
